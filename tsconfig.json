@@ -5,7 +5,8 @@
     "strict": true,
     "paths": {
       "dcldash": [
-        "node_modules/dcldash/dist/index.d.ts"
+        "node_modules/dcldash/dist/index.d.ts",
+        "node_modules\\dcldash\\dist\\index.d.ts"
       ]
     },
     "baseUrl": "."
